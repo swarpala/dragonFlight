@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #f5f4f0;
+}
+#stage {
+    width: 500px;
+    height: 600px;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
